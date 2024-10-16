@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToheedAsif_SortingAlgorithms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e99a5ce50038de6ecd1d188bdaeedcb3390e9c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35e30eb691ed90772ac33a6fcf5720b734b89f96")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToheedAsif_SortingAlgorithms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToheedAsif_SortingAlgorithms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
