@@ -14,6 +14,8 @@ public class Sorting_Algorithms
         // Split the list into two halves (left and right)
         // You will need to find the middle index and divide the list into two sublists
         int middle = (numbers.Count / 2);
+        List<int> firstHalf = numbers.GetRange(0, middle);
+        List<int> secondHalf = numbers.GetRange(middle, numbers.Count - middle);
         
         // Recursively call Merge_Sort on each half to sort them individually
         // The idea is to keep splitting until we reach lists of size 1
